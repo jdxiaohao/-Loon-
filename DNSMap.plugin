@@ -8,9 +8,13 @@
 *.taobao.com = server:h3://dns.alidns.com/dns-query
 *.tmall.com = server:h3://dns.alidns.com/dns-query
 *.alipay.com = server:h3://dns.alidns.com/dns-query
+*.alipay.com = server:h3://dns.alidns.com/dns-query
 *.alicdn.com = server:h3://dns.alidns.com/dns-query
 *.aliyun.com = server:h3://dns.alidns.com/dns-query
 *.aliyundrive.com = server:h3://dns.alidns.com/dns-query
+*.alibaba.com = server:h3://dns.alidns.com/dns-query
+*.alibabachengdun.com = server:h3://dns.alidns.com/dns-query
+*.alipayobjects.com = server:h3://dns.alidns.com/dns-query
 ## 腾讯系
 *.qq.com = server:h3://dns.alidns.com/dns-query
 *.tencent.com = server:h3://dns.alidns.com/dns-query
