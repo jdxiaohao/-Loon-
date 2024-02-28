@@ -29,6 +29,7 @@
 *.b23.tv = server:h3://dns.alidns.com/dns-query
 b23.tv = server:h3://dns.alidns.com/dns-query
 *.biliapi.net = server:h3://dns.alidns.com/dns-query
+*.biliapi.com = server:h3://dns.alidns.com/dns-query
 *.static.geetest.com = server:h3://dns.alidns.com/dns-query
 ## sina
 *.weibo.com = server:h3://dns.alidns.com/dns-query
