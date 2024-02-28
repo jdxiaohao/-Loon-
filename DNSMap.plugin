@@ -1,95 +1,95 @@
 [Host]
 ## 米忽悠
-*.bh3.com = server:https://doh.pub/dns-query
-*.mihoyo.com = server:https://doh.pub/dns-query
-*.yuanshen.com = server:https://doh.pub/dns-query
-*-os.yuanshen.com = server:https://doh.pub/dns-query
+*.bh3.com = server:h3://dns.alidns.com/dns-query
+*.mihoyo.com = server:h3://dns.alidns.com/dns-query
+*.yuanshen.com = server:h3://dns.alidns.com/dns-query
+*-os.yuanshen.com = server:h3://dns.alidns.com/dns-query
 ## 阿里系
-*.taobao.com = server:https://dns.alidns.com/dns-query
-*.tmall.com = server:https://dns.alidns.com/dns-query
-*.alipay.com = server:https://dns.alidns.com/dns-query
-*.alicdn.com = server:https://dns.alidns.com/dns-query
-*.aliyun.com = server:https://dns.alidns.com/dns-query
-*.aliyundrive.com = server:https://dns.alidns.com/dns-query
+*.taobao.com = server:h3://dns.alidns.com/dns-query
+*.tmall.com = server:h3://dns.alidns.com/dns-query
+*.alipay.com = server:h3://dns.alidns.com/dns-query
+*.alicdn.com = server:h3://dns.alidns.com/dns-query
+*.aliyun.com = server:h3://dns.alidns.com/dns-query
+*.aliyundrive.com = server:h3://dns.alidns.com/dns-query
 ## 腾讯系
-*.qq.com = server:https://doh.pub/dns-query
-*.tencent.com = server:https://doh.pub/dns-query
-*.weixin.com = server:https://doh.pub/dns-query
-*.wechat.com = server:https://doh.pub/dns-query
-*.tenpay.com = server:https://doh.pub/dns-query
-*.weiyun.com = server:https://doh.pub/dns-query
-*.gtimg.cn = server:https://doh.pub/dns-query
-*.idqqimg.com = server:https://doh.pub/dns-query
-*.gcloudsdk.com = server:https://doh.pub/dns-query
+*.qq.com = server:h3://dns.alidns.com/dns-query
+*.tencent.com = server:h3://dns.alidns.com/dns-query
+*.weixin.com = server:h3://dns.alidns.com/dns-query
+*.wechat.com = server:h3://dns.alidns.com/dns-query
+*.tenpay.com = server:h3://dns.alidns.com/dns-query
+*.weiyun.com = server:h3://dns.alidns.com/dns-query
+*.gtimg.cn = server:h3://dns.alidns.com/dns-query
+*.idqqimg.com = server:h3://dns.alidns.com/dns-query
+*.gcloudsdk.com = server:h3://dns.alidns.com/dns-query
 ## bilibili
-*.bilibili.com = server:https://doh.pub/dns-query
-*.bilivideo.com = server:https://doh.pub/dns-query
-*.bilivideo.cn = server:https://doh.pub/dns-query
-*.hdslb.com = server:https://doh.pub/dns-query
-*.b23.tv = server:https://doh.pub/dns-query
-b23.tv = server:https://doh.pub/dns-query
-*.biliapi.net = server:https://doh.pub/dns-query
-*.static.geetest.com = server:https://doh.pub/dns-query
+*.bilibili.com = server:h3://dns.alidns.com/dns-query
+*.bilivideo.com = server:h3://dns.alidns.com/dns-query
+*.bilivideo.cn = server:h3://dns.alidns.com/dns-query
+*.hdslb.com = server:h3://dns.alidns.com/dns-query
+*.b23.tv = server:h3://dns.alidns.com/dns-query
+b23.tv = server:h3://dns.alidns.com/dns-query
+*.biliapi.net = server:h3://dns.alidns.com/dns-query
+*.static.geetest.com = server:h3://dns.alidns.com/dns-query
 ## sina
-*.weibo.com = server:https://doh.pub/dns-query
-*.miaopai.com = server:https://doh.pub/dns-query
-weibo.com = server:https://doh.pub/dns-query
-*.weibo.cn = server:https://doh.pub/dns-query
-*.weibocdn.com = server:https://doh.pub/dns-query
-*.sinaimg.com = server:https://doh.pub/dns-query
-*.miaopai.com = server:https://doh.pub/dns-query
-*.sina.com.cn = server:https://doh.pub/dns-query
-*.sinajs.cn = server:https://doh.pub/dns-query
+*.weibo.com = server:h3://dns.alidns.com/dns-query
+*.miaopai.com = server:h3://dns.alidns.com/dns-query
+weibo.com = server:h3://dns.alidns.com/dns-query
+*.weibo.cn = server:h3://dns.alidns.com/dns-query
+*.weibocdn.com = server:h3://dns.alidns.com/dns-query
+*.sinaimg.com = server:h3://dns.alidns.com/dns-query
+*.miaopai.com = server:h3://dns.alidns.com/dns-query
+*.sina.com.cn = server:h3://dns.alidns.com/dns-query
+*.sinajs.cn = server:h3://dns.alidns.com/dns-query
 ## zhihu
-*.zhihu.com = server:https://doh.pub/dns-query
-*.zhimg.com = server:https://doh.pub/dns-query
+*.zhihu.com = server:h3://dns.alidns.com/dns-query
+*.zhimg.com = server:h3://dns.alidns.com/dns-query
 ## sspai
-*.sspai.com = server:https://doh.pub/dns-query
+*.sspai.com = server:h3://dns.alidns.com/dns-query
 ## 喜马拉雅
-*.xmcdn.com = server:https://doh.pub/dns-query
-*.ximalaya.com = server:https://doh.pub/dns-query
+*.xmcdn.com = server:h3://dns.alidns.com/dns-query
+*.ximalaya.com = server:h3://dns.alidns.com/dns-query
 ## xiaomi
-*.xiaomi.com = server:https://doh.pub/dns-query
-*.mi.com = server:https://doh.pub/dns-query
-*.miwifi.com = server:https://doh.pub/dns-query
+*.xiaomi.com = server:h3://dns.alidns.com/dns-query
+*.mi.com = server:h3://dns.alidns.com/dns-query
+*.miwifi.com = server:h3://dns.alidns.com/dns-query
 # douban
-*.douban.com = server:https://doh.pub/dns-query
-*.doubanio.com = server:https://doh.pub/dns-query
-*.douc.cc = server:https://doh.pub/dns-query
+*.douban.com = server:h3://dns.alidns.com/dns-query
+*.doubanio.com = server:h3://dns.alidns.com/dns-query
+*.douc.cc = server:h3://dns.alidns.com/dns-query
 ## baidu
-*.baidu.com = server:https://doh.pub/dns-query
-*.bdimg.com = server:https://doh.pub/dns-query
-*.bdstatic.com = server:https://doh.pub/dns-query
-*.bcebos.com = server:https://doh.pub/dns-query
+*.baidu.com = server:h3://dns.alidns.com/dns-query
+*.bdimg.com = server:h3://dns.alidns.com/dns-query
+*.bdstatic.com = server:h3://dns.alidns.com/dns-query
+*.bcebos.com = server:h3://dns.alidns.com/dns-query
 ## nga
-#*.nga.178.com = server:https://doh.pub/dns-query
-*.ngacn.cc = server:https://doh.pub/dns-query
-*.178.com = server:https://doh.pub/dns-query
+#*.nga.178.com = server:h3://dns.alidns.com/dns-query
+*.ngacn.cc = server:h3://dns.alidns.com/dns-query
+*.178.com = server:h3://dns.alidns.com/dns-query
 ## jd
-*.jd.com = server:https://doh.pub/dns-query
-*.jdcloud.com = server:https://doh.pub/dns-query
-*.jd.hk = server:https://doh.pub/dns-query
-*.360buyimg.com = server:https://doh.pub/dns-query
+*.jd.com = server:h3://dns.alidns.com/dns-query
+*.jdcloud.com = server:h3://dns.alidns.com/dns-query
+*.jd.hk = server:h3://dns.alidns.com/dns-query
+*.360buyimg.com = server:h3://dns.alidns.com/dns-query
 ## 爱奇艺
-*.iqiyi.com = server:https://doh.pub/dns-query
-*.qiyi.com = server:https://doh.pub/dns-query
-*.iqiyipic.com = server:https://doh.pub/dns-query
-*.qiyipic.com = server:https://doh.pub/dns-query
-*.ppsimg.com = server:https://doh.pub/dns-query
+*.iqiyi.com = server:h3://dns.alidns.com/dns-query
+*.qiyi.com = server:h3://dns.alidns.com/dns-query
+*.iqiyipic.com = server:h3://dns.alidns.com/dns-query
+*.qiyipic.com = server:h3://dns.alidns.com/dns-query
+*.ppsimg.com = server:h3://dns.alidns.com/dns-query
 ## 其他
-*.163.com = server:https://doh.pub/dns-query
-*.126.com = server:https://doh.pub/dns-query
-*.126.net = server:https://doh.pub/dns-query
-*.127.net = server:https://doh.pub/dns-query
-*.95516.com = server:https://doh.pub/dns-query
-*.netease.com = server:https://doh.pub/dns-query
-*.caiyunapp.com = server:https://doh.pub/dns-query
-*.ithome.com = server:https://doh.pub/dns-query
-*.abchina.com = server:https://doh.pub/dns-query
-*.10010.com = server:https://doh.pub/dns-query
-*.10010.cn = server:https://doh.pub/dns-query
-*.gov.cn = server:https://doh.pub/dns-query
-*.sohu.com = server:https://doh.pub/dns-query
-*.csdn.com = server:https://doh.pub/dns-query
+*.163.com = server:h3://dns.alidns.com/dns-query
+*.126.com = server:h3://dns.alidns.com/dns-query
+*.126.net = server:h3://dns.alidns.com/dns-query
+*.127.net = server:h3://dns.alidns.com/dns-query
+*.95516.com = server:h3://dns.alidns.com/dns-query
+*.netease.com = server:h3://dns.alidns.com/dns-query
+*.caiyunapp.com = server:h3://dns.alidns.com/dns-query
+*.ithome.com = server:h3://dns.alidns.com/dns-query
+*.abchina.com = server:h3://dns.alidns.com/dns-query
+*.10010.com = server:h3://dns.alidns.com/dns-query
+*.10010.cn = server:h3://dns.alidns.com/dns-query
+*.gov.cn = server:h3://dns.alidns.com/dns-query
+*.sohu.com = server:h3://dns.alidns.com/dns-query
+*.csdn.com = server:h3://dns.alidns.com/dns-query
 ## 全局
-*.cn = server:https://doh.pub/dns-query
+*.cn = server:h3://dns.alidns.com/dns-query
