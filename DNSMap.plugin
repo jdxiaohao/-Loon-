@@ -23,6 +23,7 @@
 *.gcloudsdk.com = server:h3://dns.alidns.com/dns-query
 ## bilibili
 *.bilibili.com = server:h3://dns.alidns.com/dns-query
+*.biligame.com = server:h3://dns.alidns.com/dns-query
 *.bilivideo.com = server:h3://dns.alidns.com/dns-query
 *.bilivideo.cn = server:h3://dns.alidns.com/dns-query
 *.hdslb.com = server:h3://dns.alidns.com/dns-query
